@@ -1,6 +1,5 @@
 #😁😁
 
-
 #Introduction
 This project is a CRUD developed with node js and mysql, the data is supplied from the mysql image that is inside the Docker Toolbox (for reasons of my computer's requirements I could not install the latest version of docker)
 
